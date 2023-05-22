@@ -10,4 +10,4 @@ Server Setup
 
 Client Setup
 1) npx create-react-app
-2) npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment
+2) npm i axios react-router-dom redux react-redux redux-thunk redux-devtools-extension moment react-moment uuid
